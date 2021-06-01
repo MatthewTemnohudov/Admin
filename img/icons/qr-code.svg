@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_51_6" width="300" height="300" viewBox="0 0 300 300">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_260" fill="#fff" stroke="#fff" d="M0 0H204V204H0z"/>
+        </clipPath>
+        <style>
+            .cls-4,.cls-5{stroke:#fff;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.cls-4{stroke-width:3.613px}.cls-5{stroke-width:2px}
+        </style>
+    </defs>
+    <rect id="Rectangle_256" width="300" height="300" fill="#11263c" rx="4"/>
+    <g id="Mask_Group_1" clip-path="url(#clip-path)" transform="translate(48 48)">
+        <g id="scan" transform="translate(3.29 16.451)">
+            <path id="Line_50" d="M0 0L197.419 0" class="cls-4" transform="translate(0 85.548)"/>
+            <path id="Path_136" d="M10.839 50.323V10.839h39.484" class="cls-4" transform="translate(2.323 -10.839)"/>
+            <path id="Path_137" d="M83.1 10.839h39.484v39.484" class="cls-4" transform="translate(61.677 -10.839)"/>
+            <path id="Path_138" d="M122.581 83.1v39.484H83.1" class="cls-4" transform="translate(61.677 48.516)"/>
+            <path id="Path_139" d="M50.323 122.581H10.839V83.1" class="cls-4" transform="translate(2.323 48.516)"/>
+        </g>
+    </g>
+</svg>

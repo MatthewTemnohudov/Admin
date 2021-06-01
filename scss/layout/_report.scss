@@ -1,0 +1,196 @@
+.report {
+
+  &__content {
+    margin-top: 30px;
+  }
+
+  &__naming {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 95%;
+    margin-right: auto;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+
+    .total-revenue, .refunds, .coupons {
+      display: none;
+
+      @include _480 {
+        display: block;
+      }
+    }
+
+
+    @include _768 {
+      font-size: 16px;
+    }
+  }
+
+  &__item {
+    margin-bottom: 5px;
+    display: flex;
+
+    button {
+      border: none;
+      outline: none;
+      display: none;
+      box-sizing: border-box;
+      color: #fff;
+      background-color: $color-light-black;
+      border-radius: $base-border-radius;
+      width: 188px;
+      height: 44px;
+      margin-left: 10px;
+
+      @include _768 {
+        display: block;
+      }
+    }
+
+    input {
+      border: none;
+      outline: none;
+      box-sizing: border-box;
+      color: #fff;
+      background-color: #fff;
+      border-radius: $base-border-radius;
+      width: 100%;
+      height: 44px;
+      background: #fff url("/img/print-orange.svg") no-repeat;
+      background-position: 98% 50%;
+      padding: 5px 10px;
+
+      @include _768 {
+        background: #fff;
+      }
+    }
+  }
+
+  .select-wrap {
+    display: flex;
+    flex-direction: column;
+
+    @include _480 {
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+  }
+
+  .select__item {
+    margin-bottom: 10px;
+
+    @include _480 {
+      margin-bottom: 0;
+    }
+    
+    &_month {
+      width: 100%;
+    }
+  }
+  .select {
+    &__name {
+      margin-right: 15px;
+    }
+  }
+
+  .separator {
+    margin-left: 12px;
+    margin-right: 12px;
+    display: none;
+
+    @include _480 {
+      display: block;
+    }
+  }
+
+  .jq-selectbox {
+    &.month {
+      width: 125px;
+
+      @include _480 {
+        margin-bottom: 10px;
+      }
+      @include _768 {
+        width: 200px;
+      }
+    }
+
+    &.jqselect.dropdown.opened {
+      .jq-selectbox__trigger-arrow {
+        position: static;
+        border: none;
+        width: 10px;
+        height: 18px;
+        background: url("../img/icons/arrow-down.svg") no-repeat center;
+        background-size: contain;
+      }
+    }
+    
+    &__select {
+      padding: 0;
+      border: 1px solid #00000066;
+      border-radius: 4px;
+      background: inherit;
+      height: auto;
+      display: flex;
+      align-items: center;
+      background-color: #fff;
+  
+      &-text {
+        padding: 7px 10px;
+        font-size: 13px;
+        line-height: 13px;
+        color: #000000CC;
+        margin-left: 0px;
+
+        @include _768 {
+          margin-left: 25px;
+        }
+      }
+    }
+  
+    &__trigger {
+      position: static;
+      width: auto;
+      margin-left: 10px;
+      border: none;
+  
+      &-arrow {
+        position: static;
+        border: none;
+        width: 10px;
+        height: 18px;
+        background: url("../img/icons/right-arrow.svg") no-repeat center;
+        background-size: contain;
+  
+        &:focus, &:active {
+          background: none;
+        }
+      }
+    }
+  
+    &__dropdown {
+      border: 1px solid #00000066;
+      border-top: none;
+      margin-top: 0;
+      border-radius: 0 0 4px 4px;
+      top: 27px;
+      box-shadow: none;
+  
+      li {
+        color: #000000CC;
+        &:hover {
+          background-color: initial;
+          color: $color-light-black;
+        }
+      }
+  
+      li.selected {
+        background-color: initial;
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <title>Test</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+  </head>
+  <body>
+    <div class="main-wrapper">
+      <!--HEADER START -->
+
+      <header class="header">
+        <div class="account">
+          <img class="account__notification" src="./img/buzz.svg" alt="" />
+          <div class="account__photo">
+            <img src="./img/user.svg" alt="">
+          </div>
+          <span class="account__name">ריזיקוב אולג</span>
+        </div>
+        <img class="burger-menu" src="./img/icons/menu-icon.svg" alt="" />
+      </header>
+
+      <!-----HEADER END------>
+
+      <!-----CONTENT START------>
+
+      <main class="report">
+        <div class="select-wrap">
+          <div class="select__item select__item_month">
+            <select class="month" name="" id="">
+              <option value="">חודש</option>
+              <option value="">חודש</option>
+            </select>
+            <span class="select__name">הצג</span>
+          </div>
+          <div class="select__item">
+            <select class="" name="" id="">
+              <option value="">1</option>
+              <option value="">2</option>
+            </select>
+            <select class="" name="" id="">
+              <option value="">יולי</option>
+              <option value="">יולי</option>
+            </select>
+            <select class="" name="" id="">
+              <option value="">2018</option>
+              <option value="">2019</option>
+            </select>
+          </div>
+          <span class="separator">&mdash;</span>
+          <div class="select__item">
+            <select class="" name="" id="">
+              <option value="">1</option>
+              <option value="">2</option>
+            </select>
+            <select class="" name="" id="">
+              <option value="">יולי</option>
+              <option value="">יולי</option>
+            </select>
+            <select class="" name="" id="">
+              <option value="">2018</option>
+              <option value="">2019</option>
+            </select>
+            <span class="select__name">הצג</span>
+          </div>
+        </div>
+        <div class="report__content">
+          <div class="report__naming">
+            <span class="total-revenue">סה"כ הכנסות</span>
+            <span class="total-on-credit">סה"כ באשראי</span>
+            <span class="total-cash">סה"כ במזומן</span>
+            <span class="refunds">החזרים</span>
+            <span class="coupons">קופונים</span>
+            <span class="date">תאריך</span>
+          </div>
+          <div class="report__item">
+            <button>דוח להדפסה</button>
+            <input type="text">
+          </div>
+          <div class="report__item">
+            <button>דוח להדפסה</button>
+            <input type="text">
+          </div>
+          <div class="report__item">
+            <button>דוח להדפסה</button>
+            <input type="text">
+          </div>
+          <div class="report__item">
+            <button>דוח להדפסה</button>
+            <input type="text">
+          </div>
+          <div class="report__item">
+            <button>דוח להדפסה</button>
+            <input type="text">
+          </div>
+        </div>
+      </main>
+
+      <!------CONTENT END------>
+
+    <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="js/jquery-migrate-3.3.2.min.js"></script>
+    <script src="js/components/jquery.formstyler.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script type="text/javascript">
+      $('select').styler();
+    </script>
+  </body>
+</html>

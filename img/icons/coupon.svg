@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="coupon" transform="translate(0 .5)">
+        <path id="Line_9" d="M0 0L5 0" class="cls-1" transform="translate(5.5 4)"/>
+        <path id="Line_10" d="M0 0L5 0" class="cls-1" transform="translate(5.5 9)"/>
+        <path id="Path_112" d="M13.5 8.5a2 2 0 0 1 2-2v-4a1 1 0 0 0-1-1h-13a1 1 0 0 0-1 1V6a2 2 0 0 1 0 4v3.5a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1v-3a2 2 0 0 1-2-2z" class="cls-1" transform="translate(0 -1.5)"/>
+    </g>
+</svg>

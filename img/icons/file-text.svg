@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="file-text" transform="translate(-1 .5)">
+        <path id="Line_14" d="M0 0L7 0" class="cls-1" transform="translate(4.5 11)"/>
+        <path id="Line_15" d="M0 0L7 0" class="cls-1" transform="translate(4.5 8)"/>
+        <path id="Line_16" d="M0 0L2 0" class="cls-1" transform="translate(4.5 5)"/>
+        <path id="Path_116" d="M9.5.5h-8v15h13v-10z" class="cls-1" transform="translate(0 -.5)"/>
+        <path id="Path_117" d="M9.5.5v5h5" class="cls-1" transform="translate(0 -.5)"/>
+    </g>
+</svg>

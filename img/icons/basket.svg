@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.5" height="22.773" viewBox="0 0 23.5 22.773">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="basket" transform="translate(-.25 .023)">
+        <path id="Line_77" d="M0 0L0 4" class="cls-1" transform="translate(12 13)"/>
+        <path id="Line_78" d="M0 0L0 4" class="cls-1" transform="translate(8 13)"/>
+        <path id="Line_79" d="M0 0L0 4" class="cls-1" transform="translate(16 13)"/>
+        <path id="Line_80" d="M0 7L4 0" class="cls-1" transform="translate(5 1)"/>
+        <path id="Line_81" d="M4 7L0 0" class="cls-1" transform="translate(15 1)"/>
+        <path id="Path_185" d="M21 12v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-8" class="cls-1"/>
+        <path id="Line_82" d="M0 0L22 0" class="cls-1" transform="translate(1 8)"/>
+    </g>
+</svg>

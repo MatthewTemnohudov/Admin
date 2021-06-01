@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.5" height="22.5" viewBox="0 0 22.5 22.5">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#f35c01;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="shopping-tag" transform="translate(-.25 -.25)">
+        <path id="Path_186" d="M13 22l9-9L10 1H1v9z" class="cls-1"/>
+        <circle id="Ellipse_64" cx="2" cy="2" r="2" class="cls-1" transform="translate(5 5)"/>
+        <path id="Line_83" d="M0 0L3 3" class="cls-1" transform="translate(13 10)"/>
+        <path id="Line_84" d="M0 0L3 3" class="cls-1" transform="translate(10 13)"/>
+    </g>
+</svg>

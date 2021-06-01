@@ -1,0 +1,44 @@
+.orders {
+  .wrap-btn {
+    max-width: 100%;
+    align-items: center;
+
+    button {
+      font-size: 14px;
+      width: 115px;
+      flex-shrink: 0;
+
+      @include _480 {
+        width: 125px;
+      }
+
+      @include _768 {
+        width: 135px;
+      }
+    }
+
+    .button-secondary {
+      margin-right: 10px;
+
+      @media (min-width: 480px) {
+        margin-left: 10px;
+      }
+    }
+
+    .search {
+      margin-bottom: 0;
+      @media (min-width: 480px) {
+        width: 100%;
+      }
+
+      &__input {
+        @media (min-width: 480px) {
+          width: 100%;
+        }
+        @media (min-width: 768px) {
+          max-width: 380px;
+        }
+      }
+    }
+  }
+}

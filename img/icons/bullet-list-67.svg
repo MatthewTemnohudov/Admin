@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="bullet-list-67" transform="translate(.5 .5)">
+        <circle id="Ellipse_31" cx="1.5" cy="1.5" r="1.5" class="cls-1" transform="translate(12)"/>
+        <circle id="Ellipse_32" cx="1.5" cy="1.5" r="1.5" class="cls-1" transform="translate(12 6)"/>
+        <circle id="Ellipse_33" cx="1.5" cy="1.5" r="1.5" class="cls-1" transform="translate(12 12)"/>
+        <path id="Line_6" d="M9 0L0 0" class="cls-1" transform="translate(0 2)"/>
+        <path id="Line_7" d="M9 0L0 0" class="cls-1" transform="translate(0 8)"/>
+        <path id="Line_8" d="M9 0L0 0" class="cls-1" transform="translate(0 14)"/>
+    </g>
+</svg>

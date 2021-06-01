@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.263" height="15.198" viewBox="0 0 14.263 15.198">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="discount-2" transform="translate(-.868 .099)">
+        <g id="cogwheel" transform="translate(.506 -.099)">
+            <circle id="Ellipse_62" cx="1.5" cy="1.5" r="1.5" class="cls-1" transform="translate(5.994 6.099)"/>
+            <path id="Path_175" d="M12.656 7.6a5.1 5.1 0 0 0-.183-1.291l1.652-1.42-.968-1.679-2.038.718a5.149 5.149 0 0 0-2.256-1.291L8.462.5H6.526l-.4 2.143a5.149 5.149 0 0 0-2.258 1.29L1.83 3.21.862 4.888l1.652 1.42A5.1 5.1 0 0 0 2.331 7.6a5.1 5.1 0 0 0 .183 1.29L.862 10.309l.968 1.678 2.038-.716a5.149 5.149 0 0 0 2.256 1.291l.4 2.136h1.938l.4-2.143a5.149 5.149 0 0 0 2.256-1.291l2.038.716.968-1.678-1.651-1.412a5.1 5.1 0 0 0 .183-1.29z" class="cls-1"/>
+        </g>
+    </g>
+</svg>

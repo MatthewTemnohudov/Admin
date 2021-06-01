@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#f35c01;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="pen-01" transform="translate(1 1)">
+        <path id="Line_41" d="M4 4L0 0" class="cls-1" transform="translate(13 3)"/>
+        <path id="Path_135" d="M7 21l-5 1 1-5L18 2l4 4z" class="cls-1" transform="translate(-2 -2)"/>
+    </g>
+</svg>
